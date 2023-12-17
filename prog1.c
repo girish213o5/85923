@@ -11,7 +11,7 @@ void print_table(int range, int num)
 		// To store the product.
 		mul = num * i;
 
-		// Printing the Multiplication Table.
+		
 		printf("%d * %d = %d", num, i, mul);
 
 		// Proceeding to the next line.
